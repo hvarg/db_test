@@ -1,4 +1,5 @@
 {
+  "info": {"name": "test"},
   "diasAusencia": [
     {
       "nombres": "nombre1 nombre2",
@@ -13,7 +14,7 @@
       "fechaDesde": "01-01-2000",
       "fechaHasta": "01-01-2020",
       "diasAusencia": 80,
-      "enPais": true,
+      "enPais": true
     },
     {
       "nombres": "nombre11 nombre22",
@@ -28,7 +29,7 @@
       "fechaDesde": "01-01-2005",
       "fechaHasta": "01-01-2025",
       "diasAusencia": 13,
-      "enPais": false,
+      "enPais": false
     },
     {
       "nombres": "nombre111 nombre222",
@@ -43,7 +44,7 @@
       "fechaDesde": "01-01-2010",
       "fechaHasta": "01-01-2030",
       "diasAusencia": 380,
-      "enPais": true,
-    },
-  ],
+      "enPais": true
+    }
+  ]
 }
